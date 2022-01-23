@@ -28,10 +28,10 @@ body {
     margin-right: 0;
 }
 
-.big {
+.flex {
     display: flex;
 }
 
-.small {
+.m-auto {
     margin: auto;
 }
