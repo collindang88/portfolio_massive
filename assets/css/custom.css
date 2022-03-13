@@ -43,3 +43,15 @@ body {
 .m-auto {
     margin: auto;
 }
+
+.gray {
+    color: gray;
+}
+
+.mb-\.3 {
+    margin-bottom: .3em;
+}
+
+.pl- {
+    padding-left: 5em;
+}
